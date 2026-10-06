@@ -1,0 +1,22 @@
+# Binaries
+*.crx
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build / Temp
+dist/
+build/
+node_modules/
+
+# Chrome extension metadata (auto-generated)
+_metadata/
